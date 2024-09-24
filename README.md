@@ -7,6 +7,7 @@ This repository contains a Power BI report titled "Summary of GK App V1.0".  Thi
 
 - **Summary of GK App V1.0**: The Power BI report file.
 - **README.md**: This file, providing an overview of the project.
+- **Power Bi Report**: This includes Screen Shots of the PBI Report.
 
 ## Requirements
 
