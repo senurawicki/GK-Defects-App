@@ -10,13 +10,6 @@ This repository contains a Power BI report titled "Summary of GK App V1.0".  Thi
 - **Power BI Report**: This includes Screen Shots of the PBI Report.
 - **Power App**: Ths includes GK App Screen Shots.
   
-## Requirements
 
-To view and edit this Power BI report, you will need:
-- [Power BI Desktop](https://powerbi.microsoft.com/desktop/) installed on your machine.
   
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
